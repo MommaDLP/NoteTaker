@@ -2,7 +2,8 @@ const express = require('express');
 const notes = require('./routes/notes.js');
 const index = require('./routes/index.js');
 
-const PORT = 3001;
+
+const PORT = process.env.PORT || 3001;
 const app = express();
 
 app.use(express.json());
