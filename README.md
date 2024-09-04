@@ -16,5 +16,5 @@ Use npm install and run start
 [My Github page] (https://github.com/MommaDLP/NoteTaker)
 
 ## Screenshots
-[Homepage](C:\Users\miran\OneDrive\desktop\NoteTaker\images\Screenshot 2024-09-04 175329.png)
-![Added note](C:\Users\miran\OneDrive\desktop\NoteTaker\images\Screenshot 2024-09-04 175341.png)
+<img src= "images\Screenshot 2024-09-04 175329.png">
+<img src= "images\Screenshot 2024-09-04 175341.png">
